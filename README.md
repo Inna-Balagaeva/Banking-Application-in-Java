@@ -1,2 +1,2 @@
 # Banking-Application-in-Java
-application: java, DAO, servlets included
+This is a banking application containing Java, DAO, and Servlets.
